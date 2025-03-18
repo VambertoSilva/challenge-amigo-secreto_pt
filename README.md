@@ -40,6 +40,7 @@ Os usuários podem digitar os nomes dos participantes e realizar o sorteio com a
 └── assets/
     ├── amigo-secreto.png
     └── play_circle_outline.png
+    └── preview.png
 ```
 
 ---
